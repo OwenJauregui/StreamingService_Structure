@@ -1,0 +1,2 @@
+# StreamingService_Structure
+Program of a simulated, basic streaming service. The program displays information about movies, series and episodes., but not the actual media. This data is read from a txt file in a specific format. The program allows to search for specific movies or episodes according to specific parameters. This movies and episodes can also be rated by the user. The program was created in c++ using a OOP paradigm.
